@@ -1,0 +1,12 @@
+data/mainwindow.cc.i
+data/main.cc.i
+data/resource.qrc.i
+data/exeloaderthread.h.i
+data/mainwindow.h.i
+data/mainwindow.ui.i
+data/WRun.pro.user.i
+data/WRun.bmp.i
+data/WRun.pro.i
+data/exefinder.cc.i
+data/exefinder.h.i
+data/exeloaderthread.cc.i
